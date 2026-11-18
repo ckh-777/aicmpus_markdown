@@ -127,6 +127,13 @@ markup과 markdown 모두 효과가 있습니다.
 ![카카오라이언](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJh6u8JeCrIfMYClvBpOC4X0eZO0cR1QpBLvMVOdEPnQ&s)
 
 
+깃허브는 이미지를 복사해서 붙여넣어도 임시로 업로드해서 주소를 만들어 줍니다.
 
 
+<img width="192" height="192" alt="image" src="https://github.com/user-attachments/assets/d91a5ebc-f49f-44bd-8216-d9d2cb23d450" />
 
+
+내가 가진 이미지도 표시할 수 있습니다.
+같은 저장소에 있다면 상대경로로 표시할 수 있습니다.
+
+![카카오라이언](./dummy/lion.gif)
