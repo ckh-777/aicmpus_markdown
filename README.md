@@ -120,8 +120,11 @@ markup과 markdown 모두 효과가 있습니다.
 단, 주소의 대상이 반드시 이미지여야 합니다. (아니면 엑박이 나옵니다)
 
 내가 가진 이미지, 남이 가진 이미지 모두 표시가 가능합니다.
+'''
+![이미지간단설명](이미지주소)
+'''
 
-
+![카카오라이언](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJh6u8JeCrIfMYClvBpOC4X0eZO0cR1QpBLvMVOdEPnQ&s)
 
 
 
